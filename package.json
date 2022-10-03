@@ -1,0 +1,24 @@
+{
+  "name": "js-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifegit/js-module.git"
+  },
+  "keywords": [
+    "js-module",
+    "esm",
+    "cjs"
+  ],
+  "author": "lifegit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifegit/js-module/issues"
+  },
+  "homepage": "https://github.com/lifegit/js-module#readme"
+}
